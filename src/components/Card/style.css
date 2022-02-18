@@ -1,0 +1,60 @@
+.single-we-do-box  {
+    box-shadow:0 0 5px #ffb3b3;
+	overflow-x:hidden;
+	margin-top: 15px;
+	opacity:1;
+	-webkit-transition: .5s; 
+	-moz-transition:.5s; 
+	-ms-transition:.5s; 
+	-o-transition:.5s;
+    transition: .5s;
+    margin-top: 150px;
+}
+
+/*we-do-description*/
+.single-we-do-box{
+	background:#fff;
+	min-height: 345px
+}
+/* we-do-info */
+.we-do-info {
+	font-family: 'Playfair Display', serif;
+	text-transform: capitalize;
+}
+.we-do-img {
+    margin-right: 5px;
+	border-radius:50%;
+	-webkit-transition: .5s; 
+	-moz-transition:.5s; 
+	-ms-transition:.5s; 
+	-o-transition:.5s;
+    transition: .5s;
+}
+.we-do-topics {
+    margin-top: 32px;
+    margin-bottom: 27px;
+}
+.we-do-topics h2 a{
+	color:#44454f;
+	font-size:20px;
+}/* we-do-info */
+
+
+/* we-do-comment */
+.we-do-comment {
+    margin-top: 14px;
+}
+.we-do-comment p{
+	color:#888;
+	font-size:16px;
+    font-family: 'Poppins', sans-serif;
+	max-width: 306px;
+	margin: 0 auto;
+}/* we-do-comment */
+
+
+/*we-do-description*/
+.single-we-do-box:hover{
+	box-shadow:0 5px 20px #ffb3b3;
+	opacity:1;
+}
